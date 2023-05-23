@@ -8,6 +8,8 @@ The saved parameters of the modules in /anomalib-main/anomalib/model_save.
 
 The one_dimension_packet.py in /anomalib-main/anomalib/data is the data module special for traffic.
 
+The implementation details of our model can be found in /anomalib-main/configs/model/semiflow_config.yaml.
+
 ## Local Install 
 The dependency lists are in the /anomalib-main/requirements. We highly recommend utilizing the Local Install method to install Anomalib.
 
