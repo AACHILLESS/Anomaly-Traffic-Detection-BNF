@@ -34,7 +34,7 @@ The pre-trained modules of our model in /anomalib-main/anomalib/model_save.
 ## Table of results
 ### 
 
-| Method    |    RD                |    DFKDE    |  DFM   |   DRAEM    |  FastFlow  |   PaDiM    |   PatchCore    |  STFPM   |   CFLOW   |  GN  | GN_1d  | Ours |
+| Method    |    Reverse Distillation             |    DFKDE    |  DFM   |   DRAEM    |  FastFlow  |   PaDiM    |   PatchCore    |  STFPM   |   CFLOW   |  GANomaly  | GANomaly_1d  | Ours |
 | --------- | ------------------ | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | **VPN**   | 0.6116 | 0.5907 |   0.7156   |   0.5698   |   0.6195   | 0.6726 | 0.7058 | 0.5657 | 0.5433 | 0.6239 |  0.5913   | 0.8822 |
 | **TOR**    | 0.7450|   0.7356   |   0.7514   |   0.7028   |   0.6689   |   7516   |   0.7434   |   0.7371   |   0.7025   |   0.7823   |   0.7166   |   0.8784   |
