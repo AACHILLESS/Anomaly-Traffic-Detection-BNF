@@ -4,7 +4,7 @@ Our project is implemented based on [Anomalib](https://github.com/openvinotoolki
 
 Our code of model is in anomalib-main/anomalib/models/semiflow, which contains the code of all modules in torch_model.py, the code of all loss functions in loss.py and the code of training steps, validation steps in lightning_model.py.
 
-The saved parameters of the modules in /anomalib-main/anomalib/model_save.
+The saved parameters of the modules in /anomalib-main/anomalib/model_save, which can be obtained from the following link:https://drive.google.com/drive/folders/16kgqlF8GS6GlFgmui24Mg0i_mZkXasxJ
 
 The one_dimension_packet.py in /anomalib-main/anomalib/data is the data module special for traffic.
 
