@@ -6,7 +6,7 @@ Our code of model is in anomalib-main/anomalib/models/semiflow, which contains t
 
 The saved parameters of the modules in /anomalib-main/anomalib/model_save.
 
-The one_dimension_packet.py in /anomalib-main/anomalib/data is special for the process of traffic.
+The one_dimension_packet.py in /anomalib-main/anomalib/data is the data module special for traffic.
 
 ## Local Install 
 We highly recommend utilizing the Local Install method to install Anomalib.
