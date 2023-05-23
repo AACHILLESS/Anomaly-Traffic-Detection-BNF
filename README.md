@@ -9,11 +9,11 @@ The saved parameters of the modules in /anomalib-main/anomalib/model_save.
 The one_dimension_packet.py in /anomalib-main/anomalib/data is the data module special for traffic.
 
 ## Local Install 
-We highly recommend utilizing the Local Install method to install Anomalib.
+The dependency lists are in the /anomalib-main/requirements. We highly recommend utilizing the Local Install method to install Anomalib.
 
 ```python
 cd anomalib-main
-pip install -e 
+pip install -e .
 ```
 
 ## Training
